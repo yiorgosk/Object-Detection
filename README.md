@@ -19,4 +19,5 @@ http://wiki.ros.org/melodic/Installation/Ubuntu
 https://emanual.robotis.com/
 
 roslaunch turtlebot3_gazebo turtlebot3_world.launch
+
 python robot_vision.py
